@@ -1,0 +1,6 @@
+{
+  "name": "claude-mods",
+  "description": "Mods pour Claude Code",
+  "owner": { "name": "loup0007a" },
+  "plugins": [{ "name": "minecraft-usage", "source": "./minecraft-usage" }]
+}

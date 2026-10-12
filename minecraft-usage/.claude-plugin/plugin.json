@@ -1,0 +1,9 @@
+{
+  "name": "minecraft-usage",
+  "version": "0.1.0",
+  "description": "Minecraft-style sidebar dashboard of your remaining Claude usage: 5-hour session, weekly, and context window",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "loup0007a"
+  }
+}
